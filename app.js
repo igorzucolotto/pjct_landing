@@ -1,0 +1,1 @@
+$('nav a').click(function())
